@@ -9,7 +9,7 @@
 
 <script>
 import ListMemes from './components/ListMemes.vue'
-//import { useStore } from "vuex";
+import { useStore } from "vuex";
 
 export default {
   components: { ListMemes },
